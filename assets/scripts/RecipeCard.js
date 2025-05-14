@@ -146,7 +146,7 @@ class RecipeCard extends HTMLElement {
     		${data.ingredients}
   		</p>
 		`;
-	}
+	} 
 }
 
 // A8. TODO - Define the Class as a customElement so that you can create
